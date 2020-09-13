@@ -1,0 +1,8 @@
+## Welcome to the YouTube ReadMe file
+
+This project downloaded all YouTube videos from Nov 2017 to June of 2018 from Kaggle in a csv file format.
+A dictionary was created for each row to create an array.
+Duplicate videos were deleted as were NA data reducing data frame from 40K rows to 6k rows.
+Ratio columns were created for deeper insight.
+Catagory ID numbers were replaced with understandable English labels.
+Standard statistical analysis was applied.
